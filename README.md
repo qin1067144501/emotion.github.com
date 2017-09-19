@@ -1,6 +1,6 @@
 #Qinkai's Blog
 ---
 layout:post
-title:
-data:
+title:"Why was blogging born? "
+data:7017-9-19
 ---
