@@ -17,4 +17,4 @@ class test{
 {% endhighlight %}
 
 当然所有markdown的语法Jekyll都支持哦。
-作者：cjzhao链接：http://www.jianshu.com/p/1260517bbedb來源：简书著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
