@@ -1,10 +1,3 @@
-#Qinkai's Blog
----
-layout: post
-title: "Why was blogging born? "
-date: 7017-9-19
----
-
 ---
 layout: post
 title:  "赵昌峻的第一篇blog!"
