@@ -1,4 +1,3 @@
-#欢迎来到秦凯的博客
 ---
 layout: post
 title:  "秦凯的第一篇blog!"
